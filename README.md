@@ -1,6 +1,6 @@
 # Jogo da memória
 
-## Jogo da memória simples com temática de Dark Souls feito usando HTML, CSS e JS.
+### Jogo da memória simples com temática de Dark Souls feito usando HTML, CSS e JS.
 
 Projeto feito durante o bootcamp TQI Fullstack Developer.
 
