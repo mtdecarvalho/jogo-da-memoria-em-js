@@ -11,10 +11,10 @@ function flipCard() {
     if (lockBoard) return;
     if (this === firstCard) return;
 
-    audioSelect.play();
     
     this.classList.add('flip');
     if (!hasFlippedCard) {
+        audioSelect.play();
         hasFlippedCard = true;
         firstCard = this;
         return;
